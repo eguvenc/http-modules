@@ -1,2 +1,20 @@
-# http-modules
-Http modules
+
+### Http Modules
+
+All modules of <kbd>version 1.0</kbd> are listed below.
+
+#### Debugger
+
+Open your debug browser visiting by this url.
+
+```php
+http://example.com/debugger
+```
+
+#### Captcha
+
+Create your captcha images using a http get request to this url.
+
+```php
+http://example.com/captcha/create
+```
