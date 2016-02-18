@@ -11,14 +11,14 @@ Open your debug browser visiting by this url.
 http://example.com/debugger
 ```
 
-To run debugger module copy <kbd>debugger</kbd> folder to your <kbd>app/modules/</kbd> folder.
+To run debugger module copy <kbd>Debugger.php</kbd> folder to your <kbd>app/modules/</kbd> folder.
 
 #### Captcha
 
 Create your captcha images using a http get request to this url.
 
 ```php
-http://example.com/captcha/create
+http://example.com/captcha/
 ```
 
-To run captcha module copy <kbd>captcha</kbd> folder to your <kbd>app/modules/</kbd> folder.
+To run captcha module copy <kbd>Captcha.php</kbd> folder to your <kbd>app/modules/</kbd> folder.
