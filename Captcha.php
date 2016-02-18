@@ -1,7 +1,5 @@
 <?php
 
-namespace Captcha;
-
 use Obullo\Http\Controller;
 
 class Captcha extends Controller
